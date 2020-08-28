@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run t_critical_value.py
+web: sh setup.sh && streamlit run ml-iris-app.py
